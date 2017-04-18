@@ -1,1 +1,37 @@
-p{font-style: ;}
+body{
+	background-color: #F8CA4D;
+	color: #FFFFFE; 
+
+}
+h1{
+	font-size:28px;
+	font-family: 'Montserrat', sans-serif;
+}
+h2{
+	font-size: 24px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+}
+h3{
+	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+}
+p{ 
+	font-size: 14px;
+	font-family: 'PT Serif', serif;
+	color: #2F3440;
+}
+ul{
+	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+	color: #2F3440;
+}
+img{
+	max-width: 10%;
+	height: auto;
+	float: right;
+	margin: 0 0 10px 10px;
+
+}
